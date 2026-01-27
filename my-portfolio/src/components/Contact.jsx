@@ -4,7 +4,7 @@ function Contact() {
   return (
     <section className="contact-page">
       <h2 className="contact-title">
-        Contact <span>Me</span>
+       <span> Contact Me</span>
       </h2>
 
       <p className="contact-subtitle">
@@ -17,17 +17,17 @@ function Contact() {
         <div className="contact-info">
           <div className="info-box">
             <h4>Email</h4>
-            <p>yourname@email.com</p>
+            <p>ayushivispute4@gmail.com</p>
           </div>
 
           <div className="info-box">
             <h4>Phone</h4>
-            <p>+91 XXXXX XXXXX</p>
+            <p>+91 8468889076</p>
           </div>
 
           <div className="info-box">
             <h4>Location</h4>
-            <p>India</p>
+            <p>Pune</p>
           </div>
         </div>
 
