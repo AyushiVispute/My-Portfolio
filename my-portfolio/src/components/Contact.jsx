@@ -42,5 +42,4 @@ function Contact() {
     </section>
   );
 }
-
 export default Contact;
