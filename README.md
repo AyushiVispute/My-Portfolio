@@ -25,6 +25,3 @@ This portfolio helps recruiters and collaborators understand my background, tech
 - **JavaScript**
 - *(Optional: React / Bootstrap if used)*
 
----
-
-## 📂 Project Structure
