@@ -23,5 +23,5 @@ This portfolio helps recruiters and collaborators understand my background, tech
 - **HTML5**
 - **CSS3**
 - **JavaScript**
-- *(Optional: React / Bootstrap if used)*
+
 
